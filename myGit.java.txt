@@ -1,0 +1,4 @@
+class myclass
+{
+System.out.println("in new class")
+}
